@@ -20,11 +20,12 @@
 - 📱 Exploring app dev, cybersecurity, and AI  
 
 ---
-
 ### 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
-- [Portfolio Website](https://yourportfolio.com/) *(once it’s live)*  
 
+- 💼 [LinkedIn](https://www.https://www.linkedin.com/in/erik-poe-430060384/)    
+- 💻 [GitHub](https://github.com/ErikPoe5)  
+- 🌐 [Portfolio Website](https://yourportfolio.com) *(coming soon)*   
+- ✉️ [Email Me](mailto:Erik.Tech99@gmail.com)
 ---
 
 ✨ *“A work in progress with unstoppable momentum — driven, evolving, and ready for the next level.”*  
