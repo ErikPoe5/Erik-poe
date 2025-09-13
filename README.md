@@ -22,7 +22,7 @@
 ---
 ### 📫 Connect with Me  
 
-- 💼 [LinkedIn] <a href= "https://www.https://www.linkedin.com/in/erik-poe-430060384"></a>    
+- 💼 [LinkedIn] <a href= "[https://www.https://www.linkedin.com/in/erik-poe-430060384](https://www.linkedin.com/in/erik-poe-430060384/)"></a>    
 - 💻 [GitHub](https://github.com/ErikPoe5)  
 - 🌐 [Portfolio Website](https://yourportfolio.com) *(coming soon)*   
 - ✉️ [Email Me](mailto:Erik.Tech99@gmail.com)
